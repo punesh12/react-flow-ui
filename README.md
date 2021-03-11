@@ -7,6 +7,8 @@
 4.controls at the bottom left side of the screen
 5.You can connect the nodes
 
+Live Preview : https://nervous-brahmagupta-cd947a.netlify.app/
+
 
 
 # Getting Started with Create React App
